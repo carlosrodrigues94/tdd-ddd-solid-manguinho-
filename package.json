@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "carlosrodrigues94 <carlos.1994hrs@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.4"
+  }
 }
